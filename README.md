@@ -1,5 +1,11 @@
 A factory type that enables structured output behavior in Pydantic models.
 
+# Install
+
+```sh
+pip install pydantic-outputs
+```
+
 Example usage:
 
 ```python
